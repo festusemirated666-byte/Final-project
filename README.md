@@ -20,7 +20,7 @@ Investigate four authorized laboratory attack cases and map each to the most dir
 | Redis exposure | A05 | Authentication + network restriction + least privilege |
 
 ## Repository
-- `report/final-report.pdf`
+- Final_Project_Report.pdf
 - `evidence/evidence-index.md`
 - `evidence/test-matrix.md`
 - `analysis/risk-register.md`
@@ -34,3 +34,5 @@ The final report must contain the public GitHub repository link before LMS submi
 
 ## Security
 Never commit private keys, passwords, API keys, access tokens, seed phrases, `.env` files, production credentials, or unnecessary personal information.
+
+https://github.com/festusemirated666-byte/Final-project
