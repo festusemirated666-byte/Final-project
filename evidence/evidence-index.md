@@ -7,6 +7,6 @@
 | E03 | `02-token-hijack/captured_code.txt` | Available/documented; sanitize before publication | Demonstrates captured authorization-code artifact |
 | E04 | `evidence/practical-investigation.md` | Added | Current local application and HTTP test observations |
 | E05 | SSO bypass screenshot/log | Pending | Direct evidence for authorization-logic flaw |
-| E06 | Redis exposure screenshot/log | Pending | Direct evidence for security-misconfiguration case |
+| E06 | `evidence/screenshots/02-redis-service-exposure.png` | Available | Direct evidence of Redis service exposure on port 6379 |
 
 All evidence must be redacted for secrets and unnecessary personal information before being committed to a public repository.
